@@ -105,5 +105,12 @@ footer a {
 	margin: 5em 0;
 	font-size: 1.1em;
 }
-
+.job { 
+	background-color: #CEC3B8;
+	padding: 2em;
+}
+.job h3 {
+	margin-bottom: .5em;
+}
+	
 
