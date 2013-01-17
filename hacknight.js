@@ -4,6 +4,6 @@ var cache = {
 
 cache.about.on( "click", "a", function( e ) {
 	e.preventDefault();
-	cache.about.css( "height", "auto" );
+	document.querySelector( "p.aboutlong" ).style.display = "block";
 	this.style.display = "none";
 });
