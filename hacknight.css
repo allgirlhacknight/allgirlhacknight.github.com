@@ -52,9 +52,8 @@ h2 span {
 	text-shadow: .05em .05em 0 #fff;
 	position: absolute;
 	top: auto;
-	left: auto;
+	left: 10%;
 	margin-top: -1.3em;
-	margin-left: -2em;
 	-webkit-transform: rotate(-20deg);
 	-moz-transform: rotate(-20deg);
 	-o-transform: rotate(-20deg);
