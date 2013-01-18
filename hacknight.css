@@ -138,5 +138,16 @@ footer a {
 .job h3 {
 	margin-bottom: 0 0 .5em;
 }
+.event {
+	margin: 1em 0;
+	background-color: #CEC3B8;
+	padding: 2em;
+}
+.event h3 {
+	margin: 0;
+}
+.event .datetime {
+	text-align: left;
+}
 	
 
