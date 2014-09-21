@@ -60,7 +60,7 @@ h2 span {
 	-ms-transform: rotate(-20deg);
 	transform: rotate(-20deg);
 }
-h3 { font-size: 2em; text-align: left;}
+h3 { font-family: Verdana, Geneva, sans-serif; font-size: 2em; text-align: left;}
 
 nav {
 	font-family: bebas;
